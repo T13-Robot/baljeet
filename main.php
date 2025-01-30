@@ -24,5 +24,6 @@
         $conn->close();
         ?>
     </div>
+    <h1>My First PHP Page</h1>
 </body>
 </html>
